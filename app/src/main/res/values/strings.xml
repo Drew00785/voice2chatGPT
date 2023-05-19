@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">voice2chatGPT</string>
+    <string name="fab_description">Microphone</string>
+    <string name="voice_prompt">Speak your message</string>
+</resources>
